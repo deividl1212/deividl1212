@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Deivid Lima
 
-**💻 Desenvolvedor Full Stack** &nbsp;|&nbsp; **🗂️ Sistemas de Gestão Sob Medida** &nbsp;|&nbsp; **🎓 Análise e Desenvolvimento de Sistemas**
+**💻 Desenvolvedor Full Stack** &nbsp;|&nbsp; **🗂️ Desenvolvimento de Sistemas Web** &nbsp;|&nbsp; **🎓 Análise e Desenvolvimento de Sistemas**
 
 Criando sistemas web completos, do banco de dados à interface.
 
